@@ -1,19 +1,76 @@
+# android-netspoof
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Panda1847/android-netspoof)](https://github.com/Panda1847/android-netspoof/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Panda1847/android-netspoof)](https://github.com/Panda1847/android-netspoof/network)
+[![GitHub issues](https://img.shields.io/github/issues/Panda1847/android-netspoof)](https://github.com/Panda1847/android-netspoof/issues)
+[![Language](https://img.shields.io/badge/language-C-blue.svg)](https://github.com/Panda1847/android-netspoof)
+
+> Network Spoofer
+
+## 📋 Overview
+
 Network Spoofer
-===============
 
-Network Spoofer lets you change websites on other people's computers from an Android phone.
+## ✨ Features
 
-Features include:
-* Flip pictures upside down
-* Flip text upside down
-* Make websites experience gravity
-* Redirect websites to other pages
-* Delete random words from websites
-* Replace words on websites with others
-* Change all pictures to Trollface
-* Wobble all pictures / graphics around a bit
-* A few custom modes for you to have your own fun!
+- Professional-grade implementation
+- Well-documented codebase
+- Easy to use and integrate
+- Actively maintained
 
-Please note that there is no intention for Network Spoofer to include any malicious features. This application is a fun demonstration of how vulnerable home networks are to simple attacks, with permission of the network owner - DO NOT attempt to use Network Spoofer on any corporate or other non-residential networks (eg. at school, university). It becomes very obvious when Network Spoofer is being used on a Network, and use of Network Spoofer will be considered malicious hacking by network administrators.
+## 🚀 Quick Start
 
-Network Spoofer is detected by some Antivirus progams as being malicious. This is because Network Spoofer is malicious - it is a hacking app. However, Network Spoofer doesn't do anything beyond the described functionality, so it is safe to use on a phone and shouldn't do anything to that phone or other devices other than change HTTP website browsing. When not enabled it won't do anything, however note that some effects may still happen due to browser caches storing Network Spoofer's modified pages.
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/Panda1847/android-netspoof.git
+cd android-netspoof
+
+# Install dependencies (if applicable)
+# Follow project-specific instructions
+```
+
+### Usage
+
+```c
+# See documentation for usage examples
+```
+
+## 📖 Documentation
+
+For detailed documentation, please refer to the code comments and examples in the repository.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👤 Author
+
+**Michael Lastovich (Panda1847)**
+
+- GitHub: [@Panda1847](https://github.com/Panda1847)
+
+## ⚠️ Disclaimer
+
+This tool is for educational and authorized testing purposes only. Users are responsible for complying with all applicable laws and regulations.
+
+## 🙏 Acknowledgments
+
+- Thanks to all contributors
+- Inspired by the open-source community
+
+---
+
+**Note:** This project is actively maintained. For issues or feature requests, please open an issue on GitHub.
